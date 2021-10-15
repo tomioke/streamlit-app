@@ -5,3 +5,4 @@ Simple Prediction app with Streamlit
 1. setup.sh
 2. Procfile
 3. requirements.txt
+4. runtime.txt
